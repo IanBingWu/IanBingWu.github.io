@@ -8,9 +8,9 @@
 
 **[中文版 Chinese README 请点击这里 🇨🇳](https://github.com/IanBingWu/IanBingWu.github.io/blob/master/README-zh-cn.md)**
 
-With the escalation of jekyll version, but I also want to reconstruct my older blog theme, so I did reconstruction and added some features recently. My new blog theme will still be stored in this repository. I will also use this theme in the future. Now I have done basically, then I will focus on issues that users opend to make theme better.
+This repository is forked from xudailong. This repository will be my personal Blog to share my knowledge and experience of my software career.
 
-**My Blog Url: [http://IanBingWu.github.io/](http://IanBingWu.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
+**My Blog Url: [http://IanBingWu.github.io/](http://IanBingWu.github.io/)**. If you like this Blog, you can give me a star to encourage me. Welcome everyone to use it.
 
 ## Content
 
