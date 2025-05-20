@@ -1,17 +1,17 @@
 
 # About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
 
-[![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)
-[![GitHub release](https://img.shields.io/github/release/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/releases)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/IanBingWu/IanBingWu.github.io.svg)](https://github.com/IanBingWu/IanBingWu.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/IanBingWu/IanBingWu.github.io.svg)](https://github.com/IanBingWu/IanBingWu.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/IanBingWu/IanBingWu.github.io.svg)](https://github.com/IanBingWu/IanBingWu.github.io/issues)
+[![GitHub release](https://img.shields.io/github/release/IanBingWu/IanBingWu.github.io.svg)](https://github.com/IanBingWu/IanBingWu.github.io/releases)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/IanBingWu/IanBingWu.github.io/master/LICENSE)
 
 **[中文版 Chinese README 请点击这里 🇨🇳](https://github.com/IanBingWu/IanBingWu.github.io/blob/master/README-zh-cn.md)**
 
 This repository is forked from xudailong. This repository will be my personal Blog to share my knowledge and experience of my software career.
 
-**My Blog Url: [http://IanBingWu.github.io/](http://IanBingWu.github.io/)**. If you like this Blog, you can give me a star to encourage me. Welcome everyone to use it.
+**My Blog Url: [https://ianbingwu.github.io//](https:/ianbingwu.github.io/)**. If you like this Blog, you can give me a star to encourage me. Welcome everyone to use it.
 
 ## Content
 
@@ -181,7 +181,7 @@ Shows at site header part.
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://ianbingwu.github.io/" # the base hostname & protocol for your site
 ```
 
 #### Link info
@@ -190,13 +190,13 @@ Mainly shows at the footer of the site.
 
 ```yml
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+twitter_username: 
+facebook_username: 
+github_username:  
+email: 
+weibo_username: 
+zhihu_username: 
+linkedIn_username: 
 dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
@@ -247,7 +247,7 @@ title:  "对这个 jekyll 博客主题的改版和重构"
 date:   2016-03-12 11:40:18 +0800
 categories: jekyll
 tags: jekyll 端口 markdown Foxit RubyGems HTML CSS
-author: Haoyang Gao
+author: 
 mathjax: true
 ---
 ```
@@ -315,4 +315,4 @@ You can also donate me for a coffee, and I'll do better. Thanks.
 
 ## License
 
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+[MIT License]()
