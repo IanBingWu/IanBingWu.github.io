@@ -11,7 +11,7 @@
 
 This repository is forked from xudailong. This repository will be my personal Blog to share my knowledge and experience of my software career.
 
-**My Blog Url: [https://ianbingwu.github.io//](https:/ianbingwu.github.io/)**. If you like this Blog, you can give me a star to encourage me. Welcome everyone to use it.
+**My Blog Url: [https://ianbingwu.github.io//](https://ianbingwu.github.io/)**. If you like this Blog, you can give me a star to encourage me. Welcome everyone to use it.
 
 ## Content
 
